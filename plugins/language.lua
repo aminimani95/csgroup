@@ -150,7 +150,7 @@ end
 end
  return {
  tarfand = {
- "Created by: @P9999",
+ "Created by: @D_S53",
  "Powered by: @csgroup",
  "CopyRight all right reserved",
  },
